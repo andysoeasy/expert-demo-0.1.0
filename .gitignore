@@ -1,0 +1,4 @@
+app/.venv
+app/__pycache__
+app/diagnostics.db
+frontend/node_modules
